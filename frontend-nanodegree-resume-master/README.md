@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Details
 ## How do I complete this project?
 Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
@@ -105,6 +104,3 @@ The resume has four distinct sections: work, education, projects and a header wi
 4. All of your code for adding elements to the resume should be contained within functions. 
 5. As described in the javaScript object schema, each 'display' function should be encapsulated within the javaScript object it displays in the resume. For instance, your 'display' function for appending 'work' experience data to the resume should be encapsulated within the 'work' javaScript object. The 'display' function can be encapsulated within the 'work' javaScript object definition in the same way other properties are defined there, or it can be encapsulated later in the file using dot notation. For example: `work.display =`
 6. It’s possible to make additional information show up when you click on the pins in the map. Check out line 174 in helper.js and the Google Maps API to get started.
-=======
-# resumebuilder.js-project
->>>>>>> f4fea96aaec33dba609ec3a2264190df8e369f2a
